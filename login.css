@@ -5,6 +5,11 @@ body{
     height: 70%;
     overflow: hidden;
 }
+.mb-4 {
+    font-weight: 200;
+    padding: inherit;
+    text-shadow: 2px, 2px, 3px, #00ff00;
+}
 #logwrapper {
   position: absolute;
   top : 25%;
@@ -138,3 +143,9 @@ form  {
     }
   }
 
+
+
+
+#btp_login {
+    text-shadow: 2px, 2px, 3px, #00ff00;
+}
